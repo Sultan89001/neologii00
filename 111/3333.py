@@ -1,0 +1,14 @@
+tasks = {}
+date = input("Введите дату: ")
+task = input("Введите задачу: ")
+tasks [date] = task
+
+date = input("Введите дату: ")
+task = input("Введите задачу: ")
+tasks [date] = task
+
+date = input("Введите дату: ")
+task = input("Введите задачу: ")
+tasks [date] = task
+
+
